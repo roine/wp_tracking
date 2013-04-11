@@ -1,7 +1,7 @@
 MIT License
 ===========
 
-Copyright (c) 2013 Jonathan de Montalembert <[montalembert.jonathan@gmail.com]>
+Copyright (c) 2013 Jonathan de Montalembert <montalembert.jonathan@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -26,6 +26,8 @@ TODO
 
 - add option to push manually
 - add option to change the delta before pushing
+- check the distant url, if return error, dont push for 30 days or after manually allow
+- add option to stop pushing data
 
 What is it
 ==
